@@ -23,3 +23,6 @@ gui:
 reporting: "off"
 splashupdatesindex: 0
 startuppopupversion: 1
+keybinding:
+  universal:
+    quit-alt1: '<esc>'
