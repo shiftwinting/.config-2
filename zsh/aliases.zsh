@@ -10,6 +10,6 @@ alias j='jobs'
 # git
 alias gs='git status'
 alias ga='git add'
-alias gcm='git commit -m'
+alias gcmsg='git commit -m'
 alias ggpush='git push'
 alias ggpull='git pull'
