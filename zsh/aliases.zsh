@@ -7,6 +7,7 @@ alias vim='nvim'
 alias lg='lazygit'
 alias rg='ranger'
 alias j='jobs'
+# git
 alias gs='git status'
 alias ga='git add'
 alias gcm='git commit -m'
