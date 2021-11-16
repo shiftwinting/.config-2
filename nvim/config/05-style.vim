@@ -26,6 +26,7 @@ set t_Co=256
 
 " colorscheme molokai
 colorscheme zend
+" colorscheme deus
 " colorscheme onedark
 
 "----------------------------------------------------------------------

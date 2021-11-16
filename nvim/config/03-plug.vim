@@ -84,6 +84,7 @@ Plug 'kevinhwang91/rnvimr'
 " 搜索
 Plug 'brooth/far.vim'							   " far t s u
 Plug 'jremmen/vim-ripgrep'
+Plug 'theniceboy/nvim-deus'
 call plug#end()
 
 let mapleader=','
